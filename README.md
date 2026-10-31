@@ -16,7 +16,8 @@ I'm a 7th-semester Data Science student at GCUF, passionate about Python, Machin
 ![](https://github-profile-trophy.vercel.app/?username=AttaUllahHub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AttaUllahHub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AttaUllahHub&limit=5&theme=dark&combine_all_yearly_contributions=true
+) https://github.com/AttaUllahHub/asia-cup-2025-powerbi-dashboard.git
 
 ---
 [![](https://komarev.com/ghpvc/?username=AttaUllahHub&icon=0&color=0)](https://visitcount.itsvg.in)
